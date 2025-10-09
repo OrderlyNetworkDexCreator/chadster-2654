@@ -25,7 +25,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TWITTER_URL": "https://x.com/chadliquidx",
   "VITE_SEO_SITE_NAME": "Chadliquid",
   "VITE_SEO_SITE_DESCRIPTION": "The perps DEX for gigachads on Solana.",
-  "VITE_SEO_SITE_URL": "https://dex.orderly.network/chadster-2654/",
+  "VITE_SEO_SITE_URL": "https://www.chadliquid.fun",
   "VITE_SEO_SITE_LANGUAGE": "en",
   "VITE_SEO_SITE_LOCALE": "en_US",
   "VITE_SEO_TWITTER_HANDLE": "",
